@@ -103,13 +103,13 @@ class ActionScript
 class FrontEnd
 {
     public $skills = array(
-            'Frameworks' => array(
+        'Frameworks' => array(
             'Bootstrap' => '* * * *'
         )
     );
 }
 
-class ContinuousIntegration
+class ContinuousIntegrationF
 {
     public $skills = array(
         'Build' => array(
