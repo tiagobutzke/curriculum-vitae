@@ -109,7 +109,7 @@ class FrontEnd
     );
 }
 
-class ContinuousIntegrationF
+class ContinuousIntegration
 {
     public $skills = array(
         'Build' => array(
