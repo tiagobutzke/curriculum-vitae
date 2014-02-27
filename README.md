@@ -95,7 +95,11 @@ class JavaScript
 
 class ActionScript
 {
-    public $skills = array('Frameworks' => array('Flex' => '* * * *'));
+    public $skills = array(
+        'Frameworks' => array(
+            'Flex' => '* * * *'
+        )
+    );
 }
 
 class FrontEnd
@@ -120,6 +124,10 @@ class ContinuousIntegration
         'Versioning' => array(
             'Git' => '* * * * *',
             'SVN' => '* * * * *'
+        ),
+        'Environment' => array(
+        	'Vagrant' => '* * * * *',
+        	'Chef'    => '* *'
         )
     );
 }
@@ -142,9 +150,6 @@ class SystemPlan
         )
     );
 }
-
-
-
 
 class Business
 {
