@@ -1,5 +1,6 @@
-#TIAGO BATISTA BUTZKE#
-##Software Engineer##
+#TIAGO BATISTA BUTZKE
+##Software Engineer
+
 
 ```PHP
 /** 
@@ -17,8 +18,6 @@
 ```
 
 ##Experience##
-* * *
-
 ```PHP
 namespace Curriculum;
 
@@ -63,7 +62,6 @@ $experience1->save();
 
 
 ##Skills##
-* * *
 ```PHP
 class Php
 {
@@ -202,7 +200,6 @@ class OperationalSystems
 
 
 ##Education##
-* * *
 ```PHP
 class TechnologySystemsForInternet extends Course implements CourseInterface
 {
