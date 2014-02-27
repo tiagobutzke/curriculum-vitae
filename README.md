@@ -9,8 +9,6 @@
  * 
  * @author   tiagobutzke <tiago.butzke@gmail.com>
  * @age      27 Years old
- * @phone    +55 (11) 95500-4146
- * @live     Eduardo Amaro, 99, São Paulo, Brazil
  * @twitter  @tiagobutzke
  * @github   github.com/tiagobutzke
  * @linkedin linkedin.com/in/tiagobutzke
